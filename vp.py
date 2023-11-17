@@ -1,2 +1,2 @@
 print("ruc")
-
+print("spt")
